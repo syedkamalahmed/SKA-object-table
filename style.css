@@ -1,0 +1,23 @@
+th{
+    border: 1px solid gray;
+    padding: 20px 60px;
+    margin: 0;
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+}
+
+td{
+    border: 1px solid gray;
+    padding: 20px 60px;
+    margin: 0;
+    background-color: gray;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+}
+
+.div{
+    text-align: center;
+    margin: 50px 200px;
+}
